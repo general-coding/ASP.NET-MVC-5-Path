@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owin.And.Katana.ConsoleApp", "Owin.And.Katana.ConsoleApp\Owin.And.Katana.ConsoleApp.csproj", "{E6FC69C5-D5D8-4E25-BC6F-6A66EA2FFA59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owin.And.Katana.WebserverApp", "Owin.And.Katana.WebserverApp\Owin.And.Katana.WebserverApp.csproj", "{FA5AB85F-43E9-41BF-A616-DFC87AC178CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6FC69C5-D5D8-4E25-BC6F-6A66EA2FFA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FC69C5-D5D8-4E25-BC6F-6A66EA2FFA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FC69C5-D5D8-4E25-BC6F-6A66EA2FFA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FC69C5-D5D8-4E25-BC6F-6A66EA2FFA59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5AB85F-43E9-41BF-A616-DFC87AC178CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5AB85F-43E9-41BF-A616-DFC87AC178CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5AB85F-43E9-41BF-A616-DFC87AC178CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5AB85F-43E9-41BF-A616-DFC87AC178CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {795EFA0D-3178-4660-8777-BA70FD38A768}
+	EndGlobalSection
+EndGlobal
